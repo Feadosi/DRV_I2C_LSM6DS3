@@ -1,0 +1,10 @@
+../Core/Src/LSM6DS3.c:31:6:LSM6DS3_Init	8	static
+../Core/Src/LSM6DS3.c:51:6:LSM6DS3_ACCEL_Init	16	static
+../Core/Src/LSM6DS3.c:103:6:LSM6DS3_ACCEL_Read	24	static
+../Core/Src/LSM6DS3.c:124:6:LSM6DS3_ACCEL_GetXYZ	24	static
+../Core/Src/LSM6DS3.c:152:6:LSM6DS3_GYRO_Init	16	static
+../Core/Src/LSM6DS3.c:204:6:LSM6DS3_Gyro_Read	24	static
+../Core/Src/LSM6DS3.c:228:6:LSM6DS3_GYRO_GetXYZ	24	static
+../Core/Src/LSM6DS3.c:252:9:LSM6DS3_ReadRegister	40	static
+../Core/Src/LSM6DS3.c:271:6:LSM6DS3_WirteRegister	40	static
+../Core/Src/LSM6DS3.c:287:6:LSM6DS3_Error	8	static
